@@ -1,0 +1,8 @@
+[package]
+name = "lau-ringbuf"
+version = "0.1.0"
+edition = "2021"
+description = "Low-level lock-free-style circular buffer for real-time vibe data streaming"
+license = "MIT"
+
+[dependencies]
